@@ -17,10 +17,10 @@ function App() {
       )
   })
   return (
-    <div className="w-screen h-screen">
+    <div className="w-screen h-screen overflow-x-hidden">
       <Navbar image={globesvg} title={"My travel Journal"}
       />
-      <div className="my-10 grid place-items-center xs:m-20">
+      <div className="my-10 grid place-items-center container gap-y-5 px-10 lg:px-48">
         {contents}
       </div>
     </div>
