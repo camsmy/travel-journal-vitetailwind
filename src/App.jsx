@@ -13,6 +13,7 @@ function App() {
       coverImg={item.coverImg}
       location={item.location}
       Date={item.Date}
+      link={item.link}
       />
       )
   })
