@@ -1,5 +1,8 @@
 ### Simple Travel Journal Landing Page using React Vite and Tailwind
 
+-Live Website: [travel-journal-vitetailwind.vercel.app](https://travel-journal-vitetailwind.vercel.app/)
+
+If running in local:
 - In the terminal, run `npm run dev`
 
 # To Do
