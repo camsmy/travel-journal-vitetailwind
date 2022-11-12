@@ -1,14 +1,8 @@
 ### Simple Travel Journal Landing Page using React Vite and Tailwind
 
-###### Note: This project is still under development. 
-
-- Clone the repo
-- Make sure that you have node installed in your local 
 - In the terminal, run `npm run dev`
 
 # To Do
-- Remove the overflow of the website
-- Fix responsive screen
 - Deploy in vercel
 
 # Source
